@@ -1,4 +1,4 @@
-package com.devopsbuddy2.devopsbuddy2;
+package com.devopsbuddy2;
 
 import com.devopsbuddy2.web.i18n.I18NService;
 import org.junit.Assert;
